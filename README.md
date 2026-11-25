@@ -43,3 +43,4 @@
     - 例
         * `./docs/reports/`: レポート
         * `./docs/research_plan/`: 研究計画書
+        * `./docs/paper/`: 論文の原稿
